@@ -1,0 +1,14 @@
+{
+    "keyboard_name": "akey",
+    "url": "",
+    "maintainer": "aoki",
+    "width": 3,
+    "height": 2,
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label": "k00", "x": 0, "y": 0}
+            ]
+        }
+    }
+}
